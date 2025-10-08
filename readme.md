@@ -74,7 +74,6 @@ model='gemini-2.5-flash'	The specific model used for fast, capable text generati
 system_instruction	Used to define the model's persona (expert engineer) and output format (bullet points).
 try...except blocks	Includes specific error handling for ResourceExhaustedError (rate limiting) and APIError.
 
-Export to Sheets
 Error Handling
 The script implements robust error checking to provide clear user feedback if the API call fails due to common issues:
 
