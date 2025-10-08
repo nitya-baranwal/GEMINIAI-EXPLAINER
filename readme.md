@@ -15,7 +15,7 @@ Robust error handling for production-grade stability.
 Prerequisites
 Before running the application, ensure you have the following:
 
-Python 3.9+ installed. (You've already set this up on your MacBook M4).
+Python 3.9+ installed.
 
 A Gemini API Key from Google AI Studio.
 
